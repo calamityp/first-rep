@@ -5,6 +5,4 @@ def func2(a, b):
     return a * b
 
 def func3(a, b):
-    return a + 3
-
-print ("Hello World")
+    return a / b
